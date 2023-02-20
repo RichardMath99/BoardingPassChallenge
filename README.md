@@ -7,4 +7,5 @@ O projeto foi o 6° desafio do site: https://www.rocketseat.com.br/boracodar, on
 
 # Pré-Visualização
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/41479908/220187939-d9b76dbb-6029-4bbb-9589-5379420e98a8.png)
+
